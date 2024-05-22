@@ -15,7 +15,7 @@ const StudentsScreen = () => {
           <Card.Content style={styles.cardContent}>
             <Card.Cover source={student.photo} style={styles.imagen} />
             <Title style={styles.title}>{student.name}</Title>
-            <Paragraph style={styles.text}>Carnet: {student.carnet}</Paragraph>
+            <Paragraph style={styles.text}>Carnet safasdfsa: {student.carnet}</Paragraph>
           </Card.Content>
         </Card>
       ))}
