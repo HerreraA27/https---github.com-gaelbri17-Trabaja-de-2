@@ -4,7 +4,7 @@ import { Card, Title, Paragraph } from 'react-native-paper';
 
 const studentsData = [
   { id: 1, name: 'Garbi', carnet: '20221234', photo: require('c:\Users\Tatiana Herrera\Downloads\Garbi.png.jpeg') },
-  { id: 2, name: 'Dominic Mejía', carnet: '20220211', photo: require('../img/dom.png') }
+  { id: 2, name: 'Roberto Pelusa', carnet: '20225678', photo: require('c:\Users\Tatiana Herrera\Downloads\Pelusa.png.jpeg') }
 ];
 
 const StudentsScreen = () => {

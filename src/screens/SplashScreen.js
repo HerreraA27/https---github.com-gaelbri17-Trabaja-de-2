@@ -1,5 +1,5 @@
 import { Image, StyleSheet, View } from "react-native";
-import Icon from "../img/splash.png";
+import Icon from "c:\Users\Tatiana Herrera\Downloads\Splash.jpg";
 
 export default function SplashScreen(){
     return(
